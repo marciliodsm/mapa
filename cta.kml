@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<!-- Data derived from:
+       Ed Knittel - || tastypopsicle.com
+       Feel free to use this file for your own purposes.
+       Just leave the comments and credits when doing so.
+-->
+  <Document>
+    <name>Chicago Transit Map</name>
+    <description>Chicago Transit Authority train lines</description>
+
+    <Style id="blueLine">
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="redLine">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="greenLine">
+      <LineStyle>
+        <color>ff009900</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="orangeLine">
+      <LineStyle>
+        <color>ff00ccff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="pinkLine">
+      <LineStyle>
+        <color>ffff33ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="brownLine">
+      <LineStyle>
+        <color>ff66a1cc</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="purpleLine">
+      <LineStyle>
+        <color>ffcc00cc</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="yellowLine">
+      <LineStyle>
+        <color>ff61f2f2</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+
+    <Placemark>
+      <name>Blue Line</name>
+      <styleUrl>#blueLine</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+          -49.08789541313156,-5.334247618726774,0 -49.08856506381646,-5.334255197853201,0 -49.08858207341664,-5.33454665654528,0 -49.08799202240584,-5.334697893862819,0 -49.08780495215932,-5.334826161675646,0 -49.0877058638256,-5.335085664457043,0 -49.08763978539386,-5.335381686707199,0 -49.08767102350576,-5.335579018599418,0 -49.08778379318603,-5.335713077307891,0 -49.08797023242695,-5.335775963189619,0 -49.08816138352405,-5.335690015230909,0 -49.08820147130175,-5.335524295181706,0 
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+  </Document>
+</kml>
