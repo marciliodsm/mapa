@@ -56,8 +56,8 @@
     </Style>
     <Style id="line-1267FF-5000-nodesc-highlight">
       <LineStyle>
-        <color>ffff6712</color>
-        <width>7.5</width>
+        <color>ff00aa00</color>
+        <width>2</width>
       </LineStyle>
       <BalloonStyle>
         <text><![CDATA[<h3>$[name]</h3>]]></text>
@@ -74,12 +74,12 @@
       </Pair>
     </StyleMap>
     <Folder>
-      <name>Camada sem título</name>
+      <name></name>
     </Folder>
     <Folder>
-      <name>ida</name>
+      <name></name>
       <Placemark>
-        <name>Rotas de R. Nove, 10 - Belo Horizonte, Marabá - PA, 68503-560, Brasil até Unnamed Road, Marabá - PA, Brasil</name>
+        <name></name>
         <styleUrl>#line-1267FF-5000-nodesc</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
@@ -1044,7 +1044,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>R. Nove, 10 - Belo Horizonte, Marabá - PA, 68503-560, Brasil</name>
+        <name></name>
         <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
         <Point>
           <coordinates>
@@ -1053,7 +1053,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Unnamed Road, Marabá - PA, Brasil</name>
+        <name></name>
         <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
         <Point>
           <coordinates>
@@ -1063,9 +1063,9 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>volta</name>
+      <name></name>
       <Placemark>
-        <name>Rotas de Unnamed Road, Marabá - PA, Brasil até R. Nove, 10 - Belo Horizonte, Marabá - PA, 68503-560, Brasil</name>
+        <name></name>
         <styleUrl>#line-1267FF-5000-nodesc</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
@@ -1961,7 +1961,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Unnamed Road, Marabá - PA, Brasil</name>
+        <name></name>
         <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
         <Point>
           <coordinates>
@@ -1970,7 +1970,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>R. Nove, 10 - Belo Horizonte, Marabá - PA, 68503-560, Brasil</name>
+        <name></name>
         <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
         <Point>
           <coordinates>
